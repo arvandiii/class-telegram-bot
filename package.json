@@ -1,0 +1,8 @@
+{
+  "name": "class-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alirezaarv/class-telegram-bot.git",
+  "author": "alirezaarv <alireza.arv.mail@gmail.com>",
+  "license": "MIT"
+}
