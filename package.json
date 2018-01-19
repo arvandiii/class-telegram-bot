@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/alirezaarv/class-telegram-bot.git",
   "author": "alirezaarv <alireza.arv.mail@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
 }
